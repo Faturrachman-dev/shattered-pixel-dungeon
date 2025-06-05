@@ -12,15 +12,16 @@
 
 ## Project Technical Details
 - LibGDX Version: 1.12.1
-- Android Compile SDK: 34
+- Android Compile SDK: 35
 - Android Min SDK: 14
 - Android Target SDK: 34
 - Java Compatibility: Java 8
 
 ## Build Configuration
 - Application ID: com.shatteredpixel.shatteredpixeldungeon
-- Version Code: 833
-- Version Name: 3.0.2
+- Version Code: 846
+- Version Name: 3.1.0
+- Debug Version Name: 3.1.0-INDEV
 
 ## Project Structure
 - Core Module: Game logic and assets
